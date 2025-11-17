@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">🎓 Currently pursuing MSc. at TH Bingen. Germany<br>📚 I'm currently learning things about Data Analytics.<br>🎯 Goals: Being established as a corporate guy with a huge interest in finance and investments. <br>🎲 Fun fact: I love to know about new people and their stories and I absolutely love cryptocurrencies and see them getting established even more in future.</p>
+<p align="left">🎓 Currently pursuing MSc. at TH Bingen. Germany<br>📚 I'm currently learning things about Data Engineering and Data Analytics.<br>🎯 Goals: To get established as a corporate guy with a huge interest in finance and investments. <br>🎲 Fun fact: I love to know about new people and their stories and I absolutely love cryptocurrencies and see them getting established even more in future.</p>
 
 ###
 
