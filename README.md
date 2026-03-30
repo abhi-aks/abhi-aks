@@ -27,9 +27,6 @@
 
 ###
 
-<h4 align="left">My name is Abhishek Kumar Singh, I  loves trendy stuffs about Tech and see myself as a corporate nerd.</h4>
-
-###
 
 <h2 align="left">About me 🧐</h2>
 
